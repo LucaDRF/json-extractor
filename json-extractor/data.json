@@ -1,0 +1,47 @@
+{
+  "cliente": {
+      "doccli": "05552627318",
+      "cliente": "PAULO LEANDRO OLIVEIRA DE SOUZA",
+      "tipofj": "FISICA",
+      "renda_mensal": 0,
+      "renda_anual": 0,
+      "max_comprometimento_mensal": 0
+  },
+  "limite": [],
+  "faturamento": [
+      {
+          "cnpj": "71045363000191",
+          "empresa": "BAMAQ ADM. DE CONSORCIOS LTDA.",
+          "faturamento_total": 21605,
+          "forma_faturamento": {
+              "banco": 0,
+              "recurso_proprio_avista": 0,
+              "recurso_proprio_aprazo": 0
+          },
+          "canal_faturamento": {
+              "veiculos": 0,
+              "pecas": 0,
+              "servicos": 0,
+              "consorcio": 21605,
+              "locadora": 0,
+              "emprestimo": 0,
+              "financiamento": 0
+          },
+          "fat_cotas_nao_contempladas": 0
+      }
+  ],
+  "financeiro": [
+      {
+          "quitado": 0,
+          "avencer": 0,
+          "vencido": 0,
+          "forma_pagto_titulos_quitados": {
+              "banco": 0,
+              "recurso_proprio_avista": 0,
+              "recurso_proprio_aprazo": 0
+          },
+          "media_dias_atraso": -1
+      }
+  ],
+  "historico_pagamentos": []
+}
